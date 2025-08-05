@@ -1,4 +1,6 @@
 **A Full-Featured Healthcare Web App (JavaScript | React.js)**
+
+
 LifeLink Healthcare is a modern and responsive web-based healthcare solution built using JavaScript and React.js. The platform is designed to bridge the gap between patients and medical services by offering seamless access to appointments, blood donations, symptom-based diagnosis, and social welfare features.
 Key Features:
 🩺 Doctor Appointments: Book and manage appointments with qualified doctors based on their specialization.
